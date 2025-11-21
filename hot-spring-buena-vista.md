@@ -3,12 +3,22 @@
 First and foremost—
 **US Rank** is currently the highest tier in training, so it is not something you are guaranteed to reach every time you try 💦.
 I myself had to challenge it multiple times to get the feel for it, and my scores improved gradually in this pattern:
-**UA → UA3 → UA6** (Up to here was without _Kiremono_) **→ US** (With _Kiremono_).
+**UA → UA3 → UA6** (Up to here was without **Sharp**) **→ US** (With **Sharp**).
 
-A training **High roll** (lucky run) is essential, especially for individuals that do not have the **Kiremono** (Astute) trait 💡.
+![image](https://img.game8.jp/6363658/acb213a6a86c08487cc0e3d08ad70ef1.png/show)
 
-In this guide, I am using the **"No-Wisdom Deck"** strategy that I introduced in the Hot Spring Scenario article.
+A training **High roll** (lucky run) is essential, especially for individuals that do not have the **Sharp** condition 💡.
+
+In this guide, I am not using **"Wit Support Card"** strategy that I introduced in the Hot Spring Scenario article.
 Currently, when aiming for a High Score with **Buena Vista**, this configuration is the most stable for reaching US Rank, so I hope you understand that choice 😊.
+
+---
+
+### Translator Note: Look for Sharp Condition
+
+So for Buena Vista's career, there's a event that give your trainee the **Sharp** condition, if you lucky enough you can get it and follow this guide perfectly
+
+![image](./assets/images/sharp-buena-vista.png)
 
 ---
 
@@ -17,17 +27,18 @@ Currently, when aiming for a High Score with **Buena Vista**, this configuration
 #### 1. The Deck Formation ✨
 
 Here is the actual Support Card Deck I used 👇
+
 ![image](https://assets.st-note.com/img/1763694773-TWOdVZb4ucpqRPxSz3HtLjYl.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90)
 
 - **Basic Concept:** Focused on highly versatile Support Cards.
 - **Stamina Slot:** Adopted **Duramente** (Strategy: **Chaser**).
 - **2nd Speed Slot:** Selected **Admire Groove** to boost the score for **Medium** distance.
 
-This time, I was quite lucky because I got an individual with **Kiremono** 💦.
-Buena Vista is relatively easy to get Kiremono on, so aiming for it from the start is a valid strategy ✨.
-However, even though I had Kiremono, the training itself was a bit of a **Low roll**. This means that even **without Kiremono**...
+This time, I was quite lucky because I got an individual with **Sharp** 💦.
+Buena Vista is relatively easy to get Sharp on, so aiming for it from the start is a valid strategy ✨.
+However, even though I had Sharp, the training itself was a bit of a **Low roll**. This means that even **without Sharp**...
 
-_(As seen in the example of a non-Kiremono Chrono Genesis that High rolled)_
+_(As seen in the example of a non-Sharp Chrono Genesis that High rolled)_
 ...reaching high ranks is possible. If you can bring your stats close to the **Speed** and **Stamina** **Cap**, there is a possibility to push the appraisal score even higher 💡.
 
 ---
@@ -78,7 +89,7 @@ The actual digging sequence is as follows 😊:
 
 This concludes the **Buena Vista US Training Example** 🏆.
 Because it is US Rank, the road is not easy, including the **Support Cards** used and the digging route 💦.
-Although I reached it in one day thanks to a lucky **Kiremono** run, in actual training, **waiting for a High roll and increasing your number of attempts** is extremely important ⚡.
+Although I reached it in one day thanks to a lucky **Sharp** run, in actual training, **waiting for a High roll and increasing your number of attempts** is extremely important ⚡.
 
 The route and Deck introduced here are just examples, but I would be happy if they serve as a reference for "Aiming for US" 😊.
 Once you get used to the feel of training, you can make higher-freedom adjustments, such as how you build stats or timing your **Outings**, even with the same Deck 💡.
